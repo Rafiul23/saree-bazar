@@ -14,7 +14,8 @@ import saree8 from '../../assets/saree/saree8.jpg'
 
 const Banner = () => {
     return (
-        <Swiper navigation={true} slidesPerView={4} autoplay={true} modules={[Navigation, Autoplay]} className="mySwiper">
+        <div className='my-4'>
+            <Swiper navigation={true} slidesPerView={4} autoplay={true} modules={[Navigation, Autoplay]} className="mySwiper">
             <SwiperSlide>
                 <img src={saree1} alt="" />
                
@@ -49,6 +50,7 @@ const Banner = () => {
             </SwiperSlide>
 
         </Swiper>
+        </div>
     );
 };
 

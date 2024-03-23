@@ -1,6 +1,7 @@
 import './App.css'
 import Banner from './Components/Banner/Banner'
 import Header from './Components/Header/Header'
+import Products from './Components/Products/Products'
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <div className='mx-auto container'>
       <Header></Header>
       <Banner></Banner>
+      <Products></Products>
     </div>
   )
 }

@@ -1,0 +1,116 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/Ybb3tY1/saree1.jpg",
+      "product_name": "Georgette Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/QrKgHT8/saree2.jpg",
+      "product_name": "Zamdani Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 29.99
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/D5NYpPz/saree3.jpg",
+      "product_name": "Silk Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 39.99
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/GcfbL3s/saree4.jpg",
+      "product_name": "Katan Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 49.99
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/fDShbDT/saree5.jpg",
+      "product_name": "Georgette Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 59.99
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/r2KwpFn/saree6.jpg",
+      "product_name": "Silk Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 69.99
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/FxpTXnw/saree7.jpg",
+      "product_name": "Katan Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 79.99
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/nwTM1yb/saree8.jpg",
+      "product_name": "Georgette Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 89.99
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/y5xsz7G/saree9.jpg",
+      "product_name": "Zamdani Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 99.99
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/fpNd6nJ/saree10.jpg",
+      "product_name": "Georgette Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 109.99
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/hDbkJ8P/saree11.jpg",
+      "product_name": "Zamdani Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 119.99
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/W6pTNvy/saree12.jpg",
+      "product_name": "Silk Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 129.99
+    },
+    {
+      "id": 13,
+      "image": "https://i.ibb.co/ykQcsNy/saree13.jpg",
+      "product_name": "Zamdani Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 139.99
+    },
+    {
+      "id": 14,
+      "image": "https://i.ibb.co/SQt4j2z/saree14.jpg",
+      "product_name": "Silk Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 149.99
+    },
+    {
+      "id": 15,
+      "image": "https://i.ibb.co/VWWf9Q0/saree15.jpg",
+      "product_name": "Katan Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 159.99
+    },
+    {
+      "id": 16,
+      "image": "https://i.ibb.co/Fgz0hjg/saree16.jpg",
+      "product_name": "Katan Saree",
+      "product_description": "Very attractive, comfortable and cheap in price",
+      "price": 169.99
+    }
+    
+  ]
+  
