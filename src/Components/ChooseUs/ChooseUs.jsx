@@ -4,7 +4,7 @@ const ChooseUs = () => {
         <div className='my-4'>
             <h2 className='text-center text-5xl text-[#fa8072] font-bold lg:my-10'>Why Choose Us</h2>
             <div className="hero min-h-screen">
-            <div className="hero-content flex-col lg:flex-row">
+            <div className="hero-content flex-col md:flex-row">
                 <img src={woman} className="md:w-1/2 w-full rounded-lg" />
                 <div className='md:w-1/2 w-full md:ml-5'>
                     <h1 className="text-5xl font-bold">We provide you</h1>

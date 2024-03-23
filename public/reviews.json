@@ -1,0 +1,73 @@
+[
+    {
+      "_id": "1",
+      "image": "https://i.ibb.co/fpNd6nJ/saree10.jpg",
+      "name": "Jamila Tisha",
+      "review_star": 4.5,
+      "comment": "Wonderful design and perfect in price. So much qualityful!"
+    },
+    {
+      "_id": "2",
+      "image": "https://i.ibb.co/y5xsz7G/saree9.jpg",
+      "name": "Irene Islam",
+      "review_star": 4.0,
+      "comment": "Beautiful in look and comfortable to wear!"
+    },
+    {
+      "_id": "3",
+      "image": "https://i.ibb.co/nwTM1yb/saree8.jpg",
+      "name": "Fairoon Nahar",
+      "review_star": 5.0,
+      "comment": "Absolutely amazing design I have ever seen!"
+    },
+    {
+      "_id": "4",
+      "image": "https://i.ibb.co/FxpTXnw/saree7.jpg",
+      "name": "Meryam Meheroon",
+      "review_star": 4.5,
+      "comment": "Cheap in price but quality is best."
+    },
+    {
+      "_id": "5",
+      "image": "https://i.ibb.co/r2KwpFn/saree6.jpg",
+      "name": "Deena Moon",
+      "review_star": 4.8,
+      "comment": "So beautiful and amazing design!"
+    },
+    {
+      "_id": "6",
+      "image": "https://i.ibb.co/fDShbDT/saree5.jpg",
+      "name": "Sarah Mehnaz",
+      "review_star": 4.2,
+      "comment": "Very attractive and comfortable saree!"
+    },
+    {
+      "_id": "7",
+      "image": "https://i.ibb.co/GcfbL3s/saree4.jpg",
+      "name": "Monika Toma",
+      "review_star": 4.7,
+      "comment": "Fantastic saree I have ever seen!"
+    },
+    {
+      "_id": "8",
+      "image": "https://i.ibb.co/D5NYpPz/saree3.jpg",
+      "name": "Khadiza Aktar",
+      "review_star": 4.8,
+      "comment": "Very comfortable saree. Amazing product. Thank you for nice product."
+    },
+    {
+      "_id": "9",
+      "image": "https://i.ibb.co/QrKgHT8/saree2.jpg",
+      "name": "Faiza Rahman",
+      "review_star": 4.3,
+      "comment": "Perfect design and very qualityful saree!"
+    },
+    {
+      "_id": "10",
+      "image": "https://i.ibb.co/Ybb3tY1/saree1.jpg",
+      "name": "Umme Sumaiya",
+      "review_star": 4.6,
+      "comment": "Beautiful Saree. Nice service!"
+    }
+  ]
+  
