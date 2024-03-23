@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import SareeCard from '../SareeCard/SareeCard';
+import SectionTitle from '../SectionTitle/SectionTitle';
 
 const Products = () => {
 
@@ -13,7 +14,9 @@ const Products = () => {
 
     return (
         <div className='my-10'>
-            <h2 className='text-5xl font-bold text-center text-[#FA8072]'>Our Products</h2>
+            <SectionTitle
+            title='Our Products'
+            ></SectionTitle>
             <p className='text-center my-4'>Check our products and choose your favourite one</p>
             <div className='grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-4'>
                 {

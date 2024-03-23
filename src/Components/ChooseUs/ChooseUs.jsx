@@ -1,8 +1,11 @@
 import woman from '../../assets/saree/undraw_Woman_ffrd.png';
+import SectionTitle from '../SectionTitle/SectionTitle';
 const ChooseUs = () => {
     return (
         <div className='my-4'>
-            <h2 className='text-center text-5xl text-[#fa8072] font-bold lg:my-10'>Why Choose Us</h2>
+            <SectionTitle
+            title='Why Choose Us!'
+            ></SectionTitle>
             <div className="hero min-h-screen">
             <div className="hero-content flex-col md:flex-row">
                 <img src={woman} className="md:w-1/2 w-full rounded-lg" />

@@ -6,6 +6,7 @@ import 'swiper/css/autoplay';
 import { Autoplay, Navigation } from 'swiper/modules';
 import { Rating } from '@smastrom/react-rating'
 import '@smastrom/react-rating/style.css'
+import SectionTitle from "../SectionTitle/SectionTitle";
 
 const Reviews = () => {
 
@@ -19,7 +20,9 @@ const Reviews = () => {
 
     return (
         <div className="my-5">
-            <h2 className="text-5xl my-4 font-bold text-center text-[#fa8072]">What Our Clients Say</h2>
+            <SectionTitle
+            title='What Our Clients Say'
+            ></SectionTitle>
             <p className="text-center">Check, what our clients say about our products.</p>
             <div>
             <Swiper 
