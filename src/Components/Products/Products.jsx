@@ -1,8 +1,14 @@
 import { useEffect, useState } from 'react';
 import SareeCard from '../SareeCard/SareeCard';
 import SectionTitle from '../SectionTitle/SectionTitle';
+import { motion } from 'framer-motion';
 
 const Products = () => {
+
+    const containerVariants = {
+        hidden: { opacity: 0 },
+        visible: { opacity: 1, transition: { duration: 1 } },
+      };
 
     const [sareeData, setSareeData] = useState([]);
 
@@ -13,7 +19,12 @@ const Products = () => {
     },[])
 
     return (
-        <div className='my-10'>
+        <motion.div
+        variants={containerVariants}
+            initial="hidden"
+            animate="visible"
+        >
+            <div className='my-10'>
             <SectionTitle
             title='Our Products'
             ></SectionTitle>
@@ -27,6 +38,7 @@ const Products = () => {
                 }
             </div>
         </div>
+        </motion.div>
     );
 };
 

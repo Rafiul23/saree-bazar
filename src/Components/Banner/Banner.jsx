@@ -11,10 +11,22 @@ import saree5 from '../../assets/saree/saree5.jpg'
 import saree6 from '../../assets/saree/saree6.jpg'
 import saree7 from '../../assets/saree/saree7.jpg'
 import saree8 from '../../assets/saree/saree8.jpg'
+import { motion } from 'framer-motion';
 
 const Banner = () => {
+
+    const containerVariants = {
+        hidden: { opacity: 0 },
+        visible: { opacity: 1, transition: { duration: 1 } },
+      };
+
     return (
-        <div className='my-4'>
+        <motion.div
+        variants={containerVariants}
+            initial="hidden"
+            animate="visible"
+        >
+            <div className='my-4'>
             <Swiper navigation={true} slidesPerView={4} autoplay={true} modules={[Navigation, Autoplay]} className="mySwiper">
             <SwiperSlide>
                 <img src={saree1} alt="" />
@@ -51,6 +63,7 @@ const Banner = () => {
 
         </Swiper>
         </div>
+        </motion.div>
     );
 };
 

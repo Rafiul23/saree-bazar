@@ -1,8 +1,21 @@
 import woman from '../../assets/saree/undraw_Woman_ffrd.png';
 import SectionTitle from '../SectionTitle/SectionTitle';
+import {motion} from 'framer-motion';
+
+
 const ChooseUs = () => {
+
+    const containerVariants = {
+        hidden: { opacity: 0 },
+        visible: { opacity: 1, transition: { duration: 1 } },
+      };
     return (
-        <div className='my-4'>
+        <motion.div 
+        variants={containerVariants}
+            initial="hidden"
+            animate="visible"
+        >
+            <div className='my-4'>
             <SectionTitle
             title='Why Choose Us!'
             ></SectionTitle>
@@ -23,6 +36,7 @@ const ChooseUs = () => {
             </div>
         </div>
         </div>
+        </motion.div>
     );
 };
 
