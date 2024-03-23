@@ -10,7 +10,7 @@ const ChooseUs = () => {
             <div className="hero-content flex-col md:flex-row">
                 <img src={woman} className="md:w-1/2 w-full rounded-lg" />
                 <div className='md:w-1/2 w-full md:ml-5'>
-                    <h1 className="text-5xl font-bold">We provide you</h1>
+                    <h1 className="lg:text-5xl md:text-3xl text-xl font-bold">We provide you</h1>
                     <ul className='my-5 ml-4 space-y-2 list-disc'>
                         <li>Quality Products.</li>
                         <li>Comfortable Saree.</li>
